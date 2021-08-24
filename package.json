@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "animejs": "^3.2.1",
+    "gsap": "file:gsap-bonus.tgz",
+    "howler": "^2.2.3",
+    "locomotive-scroll": "^4.1.1",
     "next": "11.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "autoprefixer": "^10.3.2",
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.0"
+    "eslint-config-next": "11.1.0",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
   }
 }
